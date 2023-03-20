@@ -1,18 +1,25 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Create New Project](#buildapps)
-- [Create UI](#UI)
-- [Data Connection](#data)
-- [Logic for Upload button](#upload)
-- [Logic for Submit Button](#submit)
-- [Summary](#Summary)
+- [Create a business process project](#project)
+- [Create a business process](#process)
+- [Create an Data Type](#data)
+- [Create and Configure API trigger](#trigger)
+- [Create and Configure Approval form](#approval)
+- [Create and Configure Order Approval Notification form](#appnotification)
+- [Create and configure Order Rejection Notification Form](#rejnotification)
+- [Create and Configure Process Condition](#condition)
+- [Create and Configure Auto Approval Notification](#autoapproval)
+- [Save the Project](#saveproject)
 
 
 # Overview <a name="overview"></a>
 
-
-In this exercise, you will build your app in SAP Build Apps to upload invoices.
+Create a Business Project and Process to build and extend business processes
+In this exercise, you will learn.
+- How to create a SAP Build Process Automation project
+- How to create a process that automates sales order creation and approval
+- How create an API trigger to integrate with any applications like SAP Build Apps, CAP etc.
 
 ![Scenario](images/scenario_appgyver.png)
 
