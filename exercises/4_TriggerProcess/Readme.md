@@ -54,6 +54,7 @@ In this exercise you will learn:
     |  `folderName`     | string
     |  `employeeName`   | string
     |  `employeeMail`   | string
+    |  `objectID`       | string
 
     **Apply** changes.
 
