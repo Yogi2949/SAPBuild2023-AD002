@@ -164,6 +164,8 @@ Choose <b>ADD.</b>
 
     ![](images/44.png)<br><br>
 
+    
+
 10. Similarly, add three other schema with the following names:
   - "<i>objectid</i>"
   - "<i>foldername</i>"
@@ -196,7 +198,7 @@ Choose <b>ADD.</b>
     ![](images/53.png)
 
  
- 
+
 16. Add another data entity to store the invoice in Document Management Service.
     > For this data connection, Destinations are not used because, the response from Document Management Service is in XML format. AppGyver can only read JSON responses.<br> Because of this reason Document Management Service is connected using DIRECT REST API.
 
