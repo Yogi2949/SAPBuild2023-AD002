@@ -223,7 +223,9 @@ Choose <b>ADD.</b>
 23.  Fill the following fields with respective values (Copy the code from following link and paste  it to base64 field) and <b> Click on Save </b>. <br><br>
 
   https://github.com/AshwinKatkar/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
-  <br><br>
+  
+  - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
+  - For <b>filename</b> give any name, example <i>"Invoice"<i>.
   <br><br>
 
 ![](images/108.png)
