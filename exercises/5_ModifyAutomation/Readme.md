@@ -54,6 +54,11 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
     ![05](./images/099.png)
 
+9. Select **Edit Expression** next to **objectID** field.
+
+    ![05](./images/100.png)
+
+
 10. The **outputPath** needs to be hard-coded:
 
     - Open the expression editor.
