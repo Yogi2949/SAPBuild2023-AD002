@@ -220,12 +220,11 @@ Choose <b>ADD.</b>
 22.  Click on <b> Custom object</b>. <br><br>
 ![](images/107.png)
 
-23.  Fill the following fields with respective values (Copy the code from following text flie and pest it to base64 field) and <b> Click on Save </b>. <br><br>
-
-  <br>
-  <br>
+23.  Fill the following fields with respective values (Copy the code from following link and paste  it to base64 field) and <b> Click on Save </b>. <br><br>
 
   https://github.com/AshwinKatkar/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
+  <br><br>
+  <br><br>
 
 ![](images/108.png)
 
