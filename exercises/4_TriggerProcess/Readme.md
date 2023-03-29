@@ -81,7 +81,7 @@ In this exercise you will learn:
 
 10. Select **Add** button.
 
-    ![04](./images/015a.png)
+    ![04](./images/015.png)
 
 11. **Close** the Project Properties window.
 
