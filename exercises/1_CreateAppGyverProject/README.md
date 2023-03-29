@@ -165,7 +165,7 @@ Choose <b>ADD.</b>
   - "<i>employeemail</i>"
 
     Select the <b>Field type</b> for all of them as <b>Text</b>.<br><br>
-    ![](images/newdata.png)
+    ![](images/105.png)
 
 11. Select the <b>create</b> tab, and enable it.<br><br>
 ![](images/46.png)
