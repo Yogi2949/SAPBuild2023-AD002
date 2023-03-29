@@ -195,7 +195,8 @@ Choose <b>ADD.</b>
     Click on <b>SAVE DATA RESOURCE</b>. The connection between your Application and Process is created using Destinations. <br><br>
     ![](images/53.png)
 
-
+ 
+ 
 16. Add another data entity to store the invoice in Document Management Service.
     > For this data connection, Destinations are not used because, the response from Document Management Service is in XML format. AppGyver can only read JSON responses.<br> Because of this reason Document Management Service is connected using DIRECT REST API.
 
