@@ -226,7 +226,7 @@ Choose <b>ADD.</b>
 22.  Click on <b>Custom object</b>. <br><br>
 ![](images/107.png)
 
-23.  Fill the field with respective value and click on <b>SAVE</b>. For <b>base64 code</b> from text file paste the code in base64 field ![Invoice_Encodetxt](Invoice_Encodetxt.txt)<br><br>
+23.  Fill the field with respective value and click on <b>SAVE</b>. For <b>base64 code</b> from text file paste the code in base64 field. ![Invoice_Encodetxt](Invoice_Encodetxt.txt)<br><br>
 ![](images/108.png)
 
 24.  click on <b>RUN TEST</b>. <br><br>
