@@ -75,7 +75,7 @@ In this exercise you will learn:
 
     ![04](./images/013.png)
 
-9. Under **Package**, select **Document Management Repository**.
+9. Under **Package**, select **Invoice Approval Process - bhushan.dubey**.
 
     ![04](./images/014.png)
 
