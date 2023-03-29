@@ -59,7 +59,8 @@ In this exercise you will learn:
     **Apply** changes.
 
     ![04](./images/009a.png)
-    
+
+    ** add one more input objectID **
     ![04](./images/009b.png)
 
 6. Select Project Properties.
