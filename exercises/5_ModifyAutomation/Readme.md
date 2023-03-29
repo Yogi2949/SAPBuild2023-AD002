@@ -58,6 +58,9 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
     ![05](./images/100.png)
 
+    map with variable **objectID** and **Save Expression**
+
+    ![05](./images/100b.png)
 
 10. The **outputPath** needs to be hard-coded:
 
