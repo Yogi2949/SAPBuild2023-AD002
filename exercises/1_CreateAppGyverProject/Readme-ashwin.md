@@ -165,12 +165,13 @@ Choose <b>ADD.</b>
     ![](images/44.png)<br><br>
 
 10. Similarly, add three other schema with the following names:
+  - "<i>objectid</i>"
   - "<i>foldername</i>"
-  - "<i>employeename</i>"
   - "<i>employeemail</i>"
+  - "<i>employeename</i>"
 
     Select the <b>Field type</b> for all of them as <b>Text</b>.<br><br>
-    ![](images/newdata.png)
+    ![](images/105.png)
 
 11. Select the <b>create</b> tab, and enable it.<br><br>
 ![](images/46.png)
@@ -219,10 +220,22 @@ Choose <b>ADD.</b>
 20. Click on <b>ADD PROPERTY</b>. Rename the <b>Key</b> in <b>PROPERTIES</b> to “<i>base64</i>”.<br><br>
 ![](images/58.png)
 
-21.  Add another property and rename it to “<i>fileName</i>” and click on <b>SAVE DATA ENTITY</b>. <br><br>
-![](images/59.png)
+21.  Add another property and rename it to “<i>fileName</i>” and click on <b>TEST</b>. <br><br>
+![](images/106.png)
 
-22. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
+22.  Click on <b>Custom object</b>. <br><br>
+![](images/107.png)
+
+23.  Fill the field with respective value and click on <b>SAVE</b>. For <b>base64 code</b> from text file paste the code in base64 field. ![Invoice_Encodetxt](Invoice_Encodetxt.txt)<br><br>
+![](images/108.png)
+
+24.  click on <b>RUN TEST</b>. <br><br>
+![](images/109.png)
+
+25.  click on <b>SET SCHEMA FROM RESPONSE</b> and click on <b>SAVE DATA ENTITY</b>. <br><br>
+![](images/110.png)
+
+26. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
 ![](images/60.png)
 
 
@@ -360,20 +373,33 @@ Click on <b>SAVE</b>.<br><br>
 25. In the binding menu, select <b>Data and Variables</b>. Select <b>App variables</b> and then choose <b>name</b>.<br><br>
 ![Submit](images/89.png)
 
-26. The <b>employeemail</b> will be static, enter the email provided to you "ad160-XXX@education.cloud.sap".  For example: "<i>ad160-087@education.cloud.sap</i>"<br><br>
-![Submit](images/90.png)
+26. Click on <b>ABC</b> of  <b>objectid</b>. <br><br>
+![Submit](images/111.png)
 
-27. Save the bindings.<br><br>
+27. Click on <b>Output value of another node</b> <br><br>
+![Submit](images/112.png)
+
+28. Select <b>Create record</b>. <br><br>
+![Submit](images/113.png)
+
+29. Select <b>cmis:objectid</b> from the list, and click on <b>SAVE</b>. <br><br>
+![Submit](images/114.png)
+
+30. The <b>employeemail</b> will be static, enter the email provided to you "<i>AD002_000@craveinfotech.com</i>"<br><br>
+![Submit](images/115.png)
+
+
+31. Save the bindings.<br><br>
 ![Submit](images/91.png)
 
-28. Drag and drop a <b>Toast</b> component.
+32. Drag and drop a <b>Toast</b> component.
 
     > This component displays a message.<br>
 
     Connect the nodes of the <b>Create record</b> component to the <b>Toast</b> component. Under the properties of the <b>Toast</b> component, enter "<i>Your Invoice has been submitted</i>" as the <b>Toast message</b>.<br><br>
     ![Submit](images/92.png)
 
-29. **Save** your work.
+33. **Save** your work.
 
 ## Summary <a name="summary"></a>
 
