@@ -222,7 +222,11 @@ Choose <b>ADD.</b>
 
 23.  Fill the following fields with respective values (Copy the code from following text flie and pest it to base64 field) and <b> Click on Save </b>. <br><br>
 
- <src= exercises\1_CreateAppGyverProject\Invoice_Encodetxt.txt> <br><br>
+  <br>
+  <br>
+
+  https://github.com/AshwinKatkar/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
+
 ![](images/108.png)
 
 24.  Click on <b> RUN TEST </b> <br><br>
