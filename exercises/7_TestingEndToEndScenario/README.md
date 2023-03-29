@@ -68,7 +68,7 @@ Follow this tutorial on [Agent Management Settings](https://developers.sap.com/t
 
     Click on <b>RUN TEST</b>.
 
-    ![](images/Test1.png)
+    ![](images/08.png)
 
 10. Scroll down and check the Status of the Response.
 
