@@ -59,6 +59,7 @@ In this exercise you will learn:
     **Apply** changes.
 
     ![04](./images/009a.png)
+    
     ![04](./images/009b.png)
 
 6. Select Project Properties.
