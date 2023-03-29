@@ -85,9 +85,9 @@ In this exercise you will learn:
 
 11. **Close** the Project Properties window.
 
-    ![04](./images/015b.png)
+    ![04](./images/15b.png)
 
-    > With this package you can automate some operations on your Document Management Service repository.
+     With this package you can automate some operations on your Document Management Service repository.
 
 ## Map API parameters to Process parameters <a name="mapParameters"></a>
 
