@@ -70,9 +70,9 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
     - In the Edit Expression window paste following value:
 
-      <pre> "C:\\Users\\Public\\" + Step0.fileName </pre>
+      <pre> "C:\\OutputInvoice\\" + Step0.fileName </pre>
 
-      ![05](./images/081.png)
+      ![05](./images/081a.png)
 
       > To check if the Expression is correct, click on Test button. If it is highlighted in green, it means the expression is correct.
 
@@ -84,7 +84,7 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
 13. Once the **Edit Expression** window opens, replace the value with:
 
-    <pre> "C:\\Users\\Public\\" + Step0.fileName </pre>
+    <pre> "C:\\OutputInvoice\\" + Step0.fileName </pre>
 
     > To check if the Expression is correct, click on Test button. If it is highlighted in green, it means the expression is correct.
 
