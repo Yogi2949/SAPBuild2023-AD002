@@ -29,7 +29,7 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
     ![05](./images/017.png)
 
-    
+
     ![05](./images/017a.png)
 
 3. Go to **Tools**, select **Automations** and drag and drop the **Download document** automation into the canvas, just before **Extract Data** activity.
@@ -54,7 +54,7 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
     ![05](./images/099.png)
 
-9. The **outputPath** needs to be hard-coded:
+10. The **outputPath** needs to be hard-coded:
 
     - Open the expression editor.
 
@@ -68,21 +68,21 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
       > To check if the Expression is correct, click on Test button. If it is highlighted in green, it means the expression is correct.
 
-10. Choose **Save Expression**.
+11. Choose **Save Expression**.
 
-11. Select **Extract Data**. In Input Parameters, next to **documentPath** open the Expression Editor.
+12. Select **Extract Data**. In Input Parameters, next to **documentPath** open the Expression Editor.
 
     ![05](./images/082.png)
 
-12. Once the **Edit Expression** window opens, replace the value with:
+13. Once the **Edit Expression** window opens, replace the value with:
 
     <pre> "C:\\Users\\Public\\" + Step0.fileName </pre>
 
     > To check if the Expression is correct, click on Test button. If it is highlighted in green, it means the expression is correct.
 
-13. Choose **Save Expression**.
+14. Choose **Save Expression**.
 
-14. **Save** your work.
+15. **Save** your work.
 
 ## Map Automation parameters to Process parameters <a name="mapParameters"></a>
 
