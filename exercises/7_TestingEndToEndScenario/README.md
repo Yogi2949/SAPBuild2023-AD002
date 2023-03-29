@@ -59,10 +59,12 @@ Follow this tutorial on [Agent Management Settings](https://developers.sap.com/t
     ![](images/ss8.png)
 
 8. You can test if this Data connection is working.<br>Switch to <b>TEST</b> tab and enter the below values in the following fields to test the connection:
-    - filename: <i>Test1666861993010.png</i>
-    - foldername: <i>Invoices</i>
+    - filename: <i>Test1680114305305.png</i>
+    - foldername: <i>Test_AG1</i>
     - employeemail: <i>Test</i>
     - employeename: <i>Test</i>
+    - objectid: <i> YLwRHFfCMIHu3TLqNZiV9ti4rXymzgRWJ91lQBt5nSI</i><br><br>
+    ![](images/07.png)
 
     Click on <b>RUN TEST</b>.
 
