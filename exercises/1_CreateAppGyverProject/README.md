@@ -225,7 +225,7 @@ Choose <b>ADD.</b>
   https://github.com/AshwinKatkar/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
   
   - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
-  - For <b>filename</b> give any name, example <i>"Invoice"<i>.
+  - For <b>filename</b> give any name, example <i>"Invoice.png"<i>.
   <br><br>
 
 ![](images/108.png)
@@ -362,14 +362,14 @@ Open the binding menu for <b>Record</b> properties.<br><br>
 ![Submit](images/84.png)
 
 21. Open the binding menu for <b>filename</b>.<Br><br>
-![Submit](images/85.png)
+![Submit](images/116.png)
 
 22. In the binding menu, select <b>Data and Variables</b>, then choose <b>App variable</b> and finally the variable <b>filename</b>.<br>
 Click on <b>SAVE</b>.<br><br>
 ![Submit](images/86.png)
 
-23. The folder name will be static, enter the value “<i>Invoices</i>”. <br><br>
-![Submit](images/87.png)
+23. The folder name will be static, enter the value “<i>Test_AG1</i>”. <br><br>
+![Submit](images/117.png)
 
 24. Open the binding menu for the <b>employeename</b>.<br><br>
 ![Submit](images/88.png)
