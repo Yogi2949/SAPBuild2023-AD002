@@ -28,6 +28,8 @@ The pre-built automation extracts the data from the Invoice document using AI.
     After the changes the parameters should look like this:
 
     ![05](./images/017.png)
+
+    
     ![05](./images/017a.png)
 
 3. Go to **Tools**, select **Automations** and drag and drop the **Download document** automation into the canvas, just before **Extract Data** activity.
