@@ -380,7 +380,7 @@ Click on <b>SAVE</b>.<br><br>
 26. The <b>employeemail</b> will be static, enter the email provided to you "AD002_000@XXX.com" (<i> give your email id</i>) <br><br>
 ![Submit](images/119.png)
 
-27. Click on  <b>ABC </b> of <b> objctid </b>>. <br><br>
+27. Click on  <b>ABC </b> of <b> objctid </b>. <br><br>
 ![Submit](images/111.png)
 
 28. Select <b>Output value of another node </b>.<br><br>
@@ -395,7 +395,7 @@ Click on <b>SAVE</b>.<br><br>
 
 
 31.  Save the bindings.<br><br>
-![Submit](images/91.png)
+![Submit](images/120.png)
 
 32. Drag and drop a <b>Toast</b> component.
 
