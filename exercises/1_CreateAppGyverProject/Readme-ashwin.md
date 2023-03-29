@@ -167,10 +167,11 @@ Choose <b>ADD.</b>
     
 
 10. Similarly, add three other schema with the following names:
-  - "<i>objectid</i>"
+ 
   - "<i>foldername</i>"
   - "<i>employeemail</i>"
   - "<i>employeename</i>"
+  - "<i>objectid</i>"
 
     Select the <b>Field type</b> for all of them as <b>Text</b>.<br><br>
     ![](images/105.png)
