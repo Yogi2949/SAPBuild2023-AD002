@@ -214,11 +214,26 @@ Choose <b>ADD.</b>
 20. Click on <b>ADD PROPERTY</b>. Rename the <b>Key</b> in <b>PROPERTIES</b> to “<i>base64</i>”.<br><br>
 ![](images/58.png)
 
-21.  Add another property and rename it to “<i>fileName</i>” and click on <b>SAVE DATA ENTITY</b>. <br><br>
-![](images/59.png)
+21.  Add another property and rename it to “<i>fileName</i>” and click on  <b> TEST</b>. <br><br>
+![](images/106.png)
 
-22. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
+22.  Click on <b> Custom object</b>. <br><br>
+![](images/107.png)
+
+23.  Fill the following fields with respective values and <b> Click on Save </b>. <br><br>
+![](images/108.png)
+
+24.  Click on <b> RUN TEST </b> <br><br>
+![](images/109.png)
+
+25.  Click on <b> SET SCHEMA FROM RESPONSE </b> and click <b>SAVE DATA ENTITY </b> <br><br>
+![](images/110.png)
+
+
+26. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
 ![](images/60.png)
+
+
 
 
 ## Create Logic for Upload button <a name="upload"></a>
