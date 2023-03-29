@@ -20,16 +20,16 @@ In this exercise, you will build your app in SAP Build Apps to upload invoices.
 
 ## Create a Build Apps Project <a name="buildapps"></a>
 
-1. From [SAP Build Lobby](https://da160-96ork4sc-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby), click on <b>Create</b> and then select <b>Build Apps Project</b>.<br>
+1. From [SAP Build Lobby](https://workshop-sap-build-9w562br3.eu10.build.cloud.sap/lobby), click on <b>Create</b> and then select <b>Build Apps Project</b>.<br>
 
    | Username | Password    |
     | :------------- | :------------- |
-    | AD160_XXX <br> where XXX is the user number <br> like AD160_000, AD160_001 etc.       | Acce$$teched22     |
+    | AD002_XXX <br> where XXX is the user number <br> like AD002_000, AD002_001 etc.       | Workshop@2023     |
     
 <br>![Create the project](images/01a.png)
 <br>![Create the project](images/01b.png)
 
-2. Under <b>Project Name</b>, enter <b><i>"Invoice AD160-XXX"</b></i>, replace XXX with your user ID. For example, <i>"Invoice AD160-087"</i>.<br>Click on <b>Create</b> to start building your application.
+2. Under <b>Project Name</b>, enter <b><i>"Invoice AD002-XXX"</b></i>, replace XXX with your user ID. For example, <i>"Invoice AD002-004"</i>.<br>Click on <b>Create</b> to start building your application.
 <br><br>![Name the project](images/01c.png)
 
 
@@ -222,7 +222,7 @@ Choose <b>ADD.</b>
 
 23.  Fill the following fields with respective values (Copy the code from following link and paste  it to base64 field) and <b> Click on Save </b>. <br><br>
 
-  https://github.com/AshwinKatkar/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
+  https://github.com/AshwinKatkar/SAPBuild2023-AD002/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
   
   - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
   - For <b>filename</b> give any name, example <i>"Invoice.png"<i>.

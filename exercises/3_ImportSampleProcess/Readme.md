@@ -21,7 +21,7 @@ This sample process includes the following:
 
 >The Store offers predefined content for your automation. Packages are categorized by catalog which let you choose between Business Content, Learning Content and Automation SDK.
 
-1. Open [SAP Process Automation - Application Development Lobby](https://da160-96ork4sc-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby).
+1. Open [SAP Process Automation - Application Development Lobby](https://workshop-sap-build-9w562br3.eu10.build.cloud.sap/lobby).
   Navigate to the store in your Tenant, to find sample content.
 
     ![03](./images/001.png)
