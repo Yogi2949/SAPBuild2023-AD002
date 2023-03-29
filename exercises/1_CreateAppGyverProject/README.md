@@ -372,13 +372,13 @@ Click on <b>SAVE</b>.<br><br>
 ![Submit](images/117.png)
 
 24. Open the binding menu for the <b>employeename</b>.<br><br>
-![Submit](images/88.png)
+![Submit](images/118.png)
 
 25. In the binding menu, select <b>Data and Variables</b>. Select <b>App variables</b> and then choose <b>name</b>.<br><br>
 ![Submit](images/89.png)
 
-26. The <b>employeemail</b> will be static, enter the email provided to you "AD002_000@craveinfotech.com" <br><br>
-![Submit](images/115.png)
+26. The <b>employeemail</b> will be static, enter the email provided to you "AD002_000@XXX.com" (<i> give your email id</i>) <br><br>
+![Submit](images/119.png)
 
 27. Click on  <b>ABC </b> of <b> objctid </b>>. <br><br>
 ![Submit](images/111.png)
