@@ -221,6 +221,7 @@ Choose <b>ADD.</b>
 ![](images/107.png)
 
 23.  Fill the following fields with respective values (Copy the code from following text flie and pest it to base64 field) and <b> Click on Save </b>. <br><br>
+
  <url=C:\Users\HP\Documents\GitHub\teched2022-AD160\exercises\1_CreateAppGyverProject\images\Invoice_Encodetxt.txt> <br><br>
 ![](images/108.png)
 
