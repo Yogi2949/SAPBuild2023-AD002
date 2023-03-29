@@ -21,13 +21,14 @@ The pre-built automation extracts the data from the Invoice document using AI.
 2. In **Automation Details**, go to **Input/Output** to modify the parameters.
 
 - Rename **FilePath** to **fileName**.
-- Select **Add new input parameter** and name it **folderName**.
+- Select **Add new input parameter** and name it **folderName** and **objectID**.
 
     ![05](./images/016a.png)
 
     After the changes the parameters should look like this:
 
     ![05](./images/017.png)
+    ![05](./images/017a.png)
 
 3. Go to **Tools**, select **Automations** and drag and drop the **Download document** automation into the canvas, just before **Extract Data** activity.
 
