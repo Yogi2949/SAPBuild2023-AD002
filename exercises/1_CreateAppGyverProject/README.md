@@ -370,20 +370,34 @@ Click on <b>SAVE</b>.<br><br>
 25. In the binding menu, select <b>Data and Variables</b>. Select <b>App variables</b> and then choose <b>name</b>.<br><br>
 ![Submit](images/89.png)
 
-26. The <b>employeemail</b> will be static, enter the email provided to you "ad160-XXX@education.cloud.sap".  For example: "<i>ad160-087@education.cloud.sap</i>"<br><br>
-![Submit](images/90.png)
+26. The <b>employeemail</b> will be static, enter the email provided to you "AD002_000@craveinfotech.com" <br><br>
+![Submit](images/115.png)
 
-27. Save the bindings.<br><br>
+27. Click on  <b>ABC </b> of <b> objctid </b>>. <br><br>
+![Submit](images/111.png)
+
+28. Select <b>Output value of another node </b>.<br><br>
+![Submit](images/112.png)
+
+29. Select <b> Create record </b>. <br><br>
+![Submit](images/113.png)
+
+30. Select <b> cmis:objectid </b>from list. <br><br>
+![Submit](images/114.png)
+
+
+
+31.  Save the bindings.<br><br>
 ![Submit](images/91.png)
 
-28. Drag and drop a <b>Toast</b> component.
+32. Drag and drop a <b>Toast</b> component.
 
     > This component displays a message.<br>
 
     Connect the nodes of the <b>Create record</b> component to the <b>Toast</b> component. Under the properties of the <b>Toast</b> component, enter "<i>Your Invoice has been submitted</i>" as the <b>Toast message</b>.<br><br>
     ![Submit](images/92.png)
 
-29. **Save** your work.
+33. **Save** your work.
 
 ## Summary <a name="summary"></a>
 
