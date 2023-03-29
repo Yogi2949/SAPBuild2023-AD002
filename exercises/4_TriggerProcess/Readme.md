@@ -85,8 +85,6 @@ In this exercise you will learn:
 
 11. **Close** the Project Properties window.
 
-
-![04](./images/testNew1.png)
     ![04](./images/015b.png)
 
     > With this package you can automate some operations on your Document Management Service repository.
