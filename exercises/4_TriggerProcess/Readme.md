@@ -60,7 +60,7 @@ In this exercise you will learn:
 
     ![04](./images/009a.png)
 
-    **<b>add one more input objectID</b>**
+    **(<b>add one more input objectID</b>)**
     ![04](./images/009b.png)
 
 6. Select Project Properties.
