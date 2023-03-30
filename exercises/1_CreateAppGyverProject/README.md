@@ -158,7 +158,7 @@ Choose <b>ADD.</b>
 
     ![](images/44.png)<br><br>
 
-10. Similarly, add three other schema with the following names:
+10. Similarly, add four other schema with the following names:
   - "<i>objectID</i>"
   - "<i>foldername</i>"
   - "<i>employeename</i>"
