@@ -158,7 +158,7 @@ Choose <b>ADD.</b>
 
     ![](images/44.png)<br><br>
 
-10. Similarly, add three other schema with the following names:
+10. Similarly, add four other schema with the following names:
   - "<i>objectID</i>"
   - "<i>foldername</i>"
   - "<i>employeename</i>"
@@ -214,7 +214,7 @@ Choose <b>ADD.</b>
 20. Click on <b>ADD PROPERTY</b>. Rename the <b>Key</b> in <b>PROPERTIES</b> to “<i>base64</i>”.<br><br>
 ![](images/58.png)
 
-21.  Add another property and rename it to “<i>fileName</i>” and click on  <b> TEST</b>. <br><br>
+21.  Add another property and rename it to “<i>filename</i>” and click on  <b> TEST</b>. <br><br>
 ![](images/106.png)
 
 22.  Click on <b> Custom object</b>. <br><br>
@@ -225,7 +225,10 @@ Choose <b>ADD.</b>
   https://github.com/AshwinKatkar/SAPBuild2023-AD002/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
   
   - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
-  - For <b>filename</b> give any name, example <i>"Invoice.png"<i>.
+  - For <b>filename</b> give any name and add "<i>.png</i>" extention, example <i>"name_xxx.png"<i>.
+     <br><br>
+     <b>**Note**:</b> Give any unique file name, ex. name001.png.
+
   <br><br>
 
 ![](images/108.png)
@@ -235,6 +238,12 @@ Choose <b>ADD.</b>
 
 25.  Click on <b> SET SCHEMA FROM RESPONSE </b> and click <b>SAVE DATA ENTITY </b> <br><br>
 ![](images/110.png)
+
+<br><br>
+
+![](images/121.png)  
+If this <b> Error </b> occurs then give different <b>filename<b/>, filename should not repeat. <br><br>
+
 
 
 26. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
