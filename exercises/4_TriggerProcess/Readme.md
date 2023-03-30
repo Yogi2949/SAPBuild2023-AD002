@@ -67,7 +67,7 @@ In this exercise you will learn:
 
     ![04](./images/011b.png)
 
-7. Choose **Configure Agent Version** and select Agent version: Agent 3.7.XX and **Save**.
+7. Choose **Configure Agent Version** and select Agent version: Agent 3.13.XX and **Save**.
 
     ![04](./images/Agent Setting 3.13.png)
 
