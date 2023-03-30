@@ -226,7 +226,8 @@ Choose <b>ADD.</b>
   
   - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
   - For <b>filename</b> give any name and add "<i>.png</i>" extention, example <i>"name_xxx.png"<i>.
- ! <b>Note:</b> Give any unique file name, ex. name001.png.
+     <br><br>
+     <b>**Note**:</b> Give any unique file name, ex. name001.png.
 
   <br><br>
 
