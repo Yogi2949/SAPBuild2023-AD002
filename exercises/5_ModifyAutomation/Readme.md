@@ -64,13 +64,16 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
 10. The **outputPath** needs to be hard-coded:
 
+    (Before  you going to do this you need to <b>create a folder in your C Drive</b> Name as <b>OutputInvoice</b>)
+
+
     - Open the expression editor.
 
     ![05](./images/080.png)
 
     - In the Edit Expression window paste following value:
 
-     (Before  you going to do this you need to <b>create a folder in your C Drive</b> Name as <b>OutputInvoice</b>)
+     
 
       <pre> "C:\\OutputInvoice\\" + Step0.fileName </pre>
 
