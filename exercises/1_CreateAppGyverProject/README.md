@@ -225,7 +225,9 @@ Choose <b>ADD.</b>
   https://github.com/AshwinKatkar/SAPBuild2023-AD002/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
   
   - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
-  - For <b>filename</b> give any name, example <i>"Invoice.png"<i>.
+  - For <b>filename</b> give any name and add <i>.png</i> extention, example <i>"name_xxx.png"<i>.
+  > -Note: Give any unique file name, ex. name001.png.
+
   <br><br>
 
 ![](images/108.png)
