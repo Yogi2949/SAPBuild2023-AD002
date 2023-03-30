@@ -15,7 +15,7 @@ In this exercise you will learn:
 
 ## Modify the Project <a name="modifyProject"></a>
 
-1. Open your project **Invoice Approval Process AD160-XXX**. Choose process **Get Invoice Details**.
+1. Open your project **Invoice Approval Process AD002-XXX**. Choose process **Get Invoice Details**.
 
     ![04](./images//005.png)
 
