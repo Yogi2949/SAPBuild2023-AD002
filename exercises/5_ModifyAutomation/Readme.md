@@ -70,7 +70,7 @@ The pre-built automation extracts the data from the Invoice document using AI.
 
     - In the Edit Expression window paste following value:
 
-     **(Before  you going to do this you need to <b>create a folder in your c Drive</b>)**
+     (Before  you going to do this you need to <b>create a folder in your C Drive</b>)
 
       <pre> "C:\\OutputInvoice\\" + Step0.fileName </pre>
 
