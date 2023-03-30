@@ -214,7 +214,7 @@ Choose <b>ADD.</b>
 20. Click on <b>ADD PROPERTY</b>. Rename the <b>Key</b> in <b>PROPERTIES</b> to “<i>base64</i>”.<br><br>
 ![](images/58.png)
 
-21.  Add another property and rename it to “<i>fileName</i>” and click on  <b> TEST</b>. <br><br>
+21.  Add another property and rename it to “<i>filename</i>” and click on  <b> TEST</b>. <br><br>
 ![](images/106.png)
 
 22.  Click on <b> Custom object</b>. <br><br>
