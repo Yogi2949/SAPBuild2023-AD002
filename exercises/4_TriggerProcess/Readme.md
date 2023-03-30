@@ -69,7 +69,7 @@ In this exercise you will learn:
 
 7. Choose **Configure Agent Version** and select Agent version: Agent 3.7.XX and **Save**.
 
-    ![04](./images/012a.png)
+    ![04](./images/Agent Setting 3.13.png)
 
 8. Choose **Dependencies** and select **Add Dependency**.
 
