@@ -236,6 +236,12 @@ Choose <b>ADD.</b>
 25.  Click on <b> SET SCHEMA FROM RESPONSE </b> and click <b>SAVE DATA ENTITY </b> <br><br>
 ![](images/110.png)
 
+<br><br>
+
+![](images/121.png)  
+If this <b> Error </b> occurs then give different <b>filename<b/>, filename should not repeat. <br><br>
+
+
 
 26. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
 ![](images/60.png)
