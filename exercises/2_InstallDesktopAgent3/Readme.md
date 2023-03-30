@@ -77,8 +77,8 @@ Once the installation steps of the SAP Robotic Process Automation setup wizard a
 
     ![07](./images/agent3-a038.png)
 
-    - <b> ADD NAME</b> to your agent
-    -  for <b>DOMAIN LINK</b> --> <b>Settings</b> --> <b> Register new agent</b> --> <b>Copy and Close</b>.
+    - <b>ADD NAME</b> to your agent
+    - for <b>DOMAIN LINK</b> --> <b>Settings</b> --> <b> Register new agent</b> --> <b>Copy and Close</b>.
 
 
     ![07](./images/102a.png)
