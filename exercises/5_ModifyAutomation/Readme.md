@@ -82,6 +82,8 @@ The pre-built automation extracts the data from the Invoice document using AI.
       > To check if the Expression is correct, click on Test button. If it is highlighted in green, it means the expression is correct.
 
 11. Choose **Save Expression**.
+    Once all input parameters are set it should look like this.
+    ![05](./images/All Input Parameters.png)
 
 12. Select **Extract Data**. In Input Parameters, next to **documentPath** open the Expression Editor.
 
