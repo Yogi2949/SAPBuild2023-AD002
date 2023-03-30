@@ -21,7 +21,7 @@ This sample process includes the following:
 
 >The Store offers predefined content for your automation. Packages are categorized by catalog which let you choose between Business Content, Learning Content and Automation SDK.
 
-1. Open [SAP Process Automation - Application Development Lobby](https://da160-96ork4sc-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby).
+1. Open [SAP Process Automation - Application Development Lobby](https://workshop-sap-build-9w562br3.eu10.build.cloud.sap/lobby).
   Navigate to the store in your Tenant, to find sample content.
 
     ![03](./images/001.png)
@@ -37,7 +37,7 @@ This sample process includes the following:
 
 2.	Create a Business Process Project from the template.
 
-  - Under **Project Name** field, type: Invoice Approval Process AD160-XXX (replace `XXX` with your User ID to identify the project later).
+  - Under **Project Name** field, type: Invoice Approval Process AD002-XXX (replace `XXX` with your User ID to identify the project later).
   - Under **Short Description** field, type: Invoice Approval Process.
   - Choose **Create**.
 

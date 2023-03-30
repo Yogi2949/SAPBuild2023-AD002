@@ -20,16 +20,16 @@ In this exercise, you will build your app in SAP Build Apps to upload invoices.
 
 ## Create a Build Apps Project <a name="buildapps"></a>
 
-1. From [SAP Build Lobby](https://da160-96ork4sc-applicationdevelopment.lcnc.cfapps.eu10.hana.ondemand.com/lobby), click on <b>Create</b> and then select <b>Build Apps Project</b>.<br>
+1. From [SAP Build Lobby](https://workshop-sap-build-9w562br3.eu10.build.cloud.sap/lobby), click on <b>Create</b> and then select <b>Build Apps Project</b>.<br>
 
    | Username | Password    |
     | :------------- | :------------- |
-    | AD160_XXX <br> where XXX is the user number <br> like AD160_000, AD160_001 etc.       | Acce$$teched22     |
+    | AD002_XXX <br> where XXX is the user number <br> like AD002_000, AD002_001 etc.       | Workshop@2023     |
     
 <br>![Create the project](images/01a.png)
 <br>![Create the project](images/01b.png)
 
-2. Under <b>Project Name</b>, enter <b><i>"Invoice AD160-XXX"</b></i>, replace XXX with your user ID. For example, <i>"Invoice AD160-087"</i>.<br>Click on <b>Create</b> to start building your application.
+2. Under <b>Project Name</b>, enter <b><i>"Invoice AD002-XXX"</b></i>, replace XXX with your user ID. For example, <i>"Invoice AD002-004"</i>.<br>Click on <b>Create</b> to start building your application.
 <br><br>![Name the project](images/01c.png)
 
 
@@ -158,7 +158,7 @@ Choose <b>ADD.</b>
 
     ![](images/44.png)<br><br>
 
-10. Similarly, add three other schema with the following names:
+10. Similarly, add four other schema with the following names:
   - "<i>objectID</i>"
   - "<i>foldername</i>"
   - "<i>employeename</i>"
@@ -214,7 +214,7 @@ Choose <b>ADD.</b>
 20. Click on <b>ADD PROPERTY</b>. Rename the <b>Key</b> in <b>PROPERTIES</b> to “<i>base64</i>”.<br><br>
 ![](images/58.png)
 
-21.  Add another property and rename it to “<i>fileName</i>” and click on  <b> TEST</b>. <br><br>
+21.  Add another property and rename it to “<i>filename</i>” and click on  <b> TEST</b>. <br><br>
 ![](images/106.png)
 
 22.  Click on <b> Custom object</b>. <br><br>
@@ -222,10 +222,13 @@ Choose <b>ADD.</b>
 
 23.  Fill the following fields with respective values (Copy the code from following link and paste  it to base64 field) and <b> Click on Save </b>. <br><br>
 
-  https://github.com/AshwinKatkar/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
+  https://github.com/AshwinKatkar/SAPBuild2023-AD002/blob/main/exercises/1_CreateAppGyverProject/Invoice_Encodetxt.txt
   
   - For <b>base64</b> field click on above link and paste the <b>long text</b> as shown below image.
-  - For <b>filename</b> give any name, example <i>"Invoice"<i>.
+  - For <b>filename</b> give any name and add "<i>.png</i>" extention, example <i>"name_xxx.png"<i>.
+     <br><br>
+     <b>**Note**:</b> Give any unique file name, ex. name001.png.
+
   <br><br>
 
 ![](images/108.png)
@@ -235,6 +238,12 @@ Choose <b>ADD.</b>
 
 25.  Click on <b> SET SCHEMA FROM RESPONSE </b> and click <b>SAVE DATA ENTITY </b> <br><br>
 ![](images/110.png)
+
+<br><br>
+
+![](images/121.png)  
+If this <b> Error </b> occurs then give different <b>filename<b/>, filename should not repeat. <br><br>
+
 
 
 26. Click on <b>SAVE</b> on the top right corner of the screen.<br><br>
@@ -362,25 +371,25 @@ Open the binding menu for <b>Record</b> properties.<br><br>
 ![Submit](images/84.png)
 
 21. Open the binding menu for <b>filename</b>.<Br><br>
-![Submit](images/85.png)
+![Submit](images/116.png)
 
 22. In the binding menu, select <b>Data and Variables</b>, then choose <b>App variable</b> and finally the variable <b>filename</b>.<br>
 Click on <b>SAVE</b>.<br><br>
 ![Submit](images/86.png)
 
-23. The folder name will be static, enter the value “<i>Invoices</i>”. <br><br>
-![Submit](images/87.png)
+23. The folder name will be static, enter the value “<i>Test_AG1</i>”. <br><br>
+![Submit](images/117.png)
 
 24. Open the binding menu for the <b>employeename</b>.<br><br>
-![Submit](images/88.png)
+![Submit](images/118.png)
 
 25. In the binding menu, select <b>Data and Variables</b>. Select <b>App variables</b> and then choose <b>name</b>.<br><br>
 ![Submit](images/89.png)
 
-26. The <b>employeemail</b> will be static, enter the email provided to you "AD002_000@craveinfotech.com" <br><br>
-![Submit](images/115.png)
+26. The <b>employeemail</b> will be static, enter the email provided to you "AD002_000@XXX.com" (<i> give your email id</i>) <br><br>
+![Submit](images/119.png)
 
-27. Click on  <b>ABC </b> of <b> objctid </b>>. <br><br>
+27. Click on  <b>ABC </b> of <b> objctid </b>. <br><br>
 ![Submit](images/111.png)
 
 28. Select <b>Output value of another node </b>.<br><br>
@@ -395,7 +404,7 @@ Click on <b>SAVE</b>.<br><br>
 
 
 31.  Save the bindings.<br><br>
-![Submit](images/91.png)
+![Submit](images/120.png)
 
 32. Drag and drop a <b>Toast</b> component.
 

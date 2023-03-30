@@ -59,14 +59,16 @@ Follow this tutorial on [Agent Management Settings](https://developers.sap.com/t
     ![](images/ss8.png)
 
 8. You can test if this Data connection is working.<br>Switch to <b>TEST</b> tab and enter the below values in the following fields to test the connection:
-    - filename: <i>Test1666861993010.png</i>
-    - foldername: <i>Invoices</i>
+    - filename: <i>Test1680114305305.png</i>
+    - foldername: <i>Test_AG1</i>
     - employeemail: <i>Test</i>
     - employeename: <i>Test</i>
+    - objectid: <i> YLwRHFfCMIHu3TLqNZiV9ti4rXymzgRWJ91lQBt5nSI</i><br><br>
+    ![](images/07.png)
 
     Click on <b>RUN TEST</b>.
 
-    ![](images/Test1.png)
+    ![](images/08.png)
 
 10. Scroll down and check the Status of the Response.
 
@@ -95,7 +97,7 @@ If you get the response as <b>Status:OK</b>, then the connection is successful.<
 ![](images/App.png)
 
 4. Enter the name and upload the invoice to test the process.
-The invoice can be downloaded <a href="https://github.com/SAP-samples/teched2022-AD160/blob/main/exercises/1_CreateAppGyverProject/images/Invoice.png?raw=true">**HERE**</a>.
+The invoice can be downloaded <a href="https://github.com/AshwinKatkar/SAPBuild2023-AD002/blob/main/exercises/1_CreateAppGyverProject/images/Invoice.png?raw=true">**HERE**</a>.
 
     ![](images/ss14.png)
 
