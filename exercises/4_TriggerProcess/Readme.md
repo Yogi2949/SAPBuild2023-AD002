@@ -74,6 +74,10 @@ In this exercise you will learn:
 8. Choose **Dependencies** and select **Add Dependency**.
 
     ![04](./images/013.png)
+     
+     Choose **Add a Business project dependency** 
+
+     ![04](./images/100a.png)
 
 9. Under **Package**, select **Invoice Approval Process - bhushan.dubey**.
 
