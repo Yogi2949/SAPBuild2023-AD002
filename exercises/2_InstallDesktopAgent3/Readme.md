@@ -77,6 +77,11 @@ Once the installation steps of the SAP Robotic Process Automation setup wizard a
 
     ![07](./images/agent3-a038.png)
 
+    
+    
+    ![07](./images/101a.png)
+
+
 3. The tenant is active.
 
     ![07](./images/agent3-a039.png)
