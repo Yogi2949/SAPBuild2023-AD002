@@ -1,10 +1,8 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AD160)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AD160)
-
-# AD160 - Build Robust Apps Enhanced with Process Automation and Low-Code Tooling
+# AD002 - Build Robust Apps Enhanced with Process Automation and Low-Code Tooling
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called [AD160 - Build Robust Apps Enhanced with Process Automation and Low-Code Tooling](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198448374001X6GH).
+This repository contains the material for the Crave Hands-On session called [AD002 - Build Robust Apps Enhanced with Process Automation and Low-Code Tooling]
 
 ## Overview
 
@@ -36,4 +34,4 @@ There are no dedicated requirement for this exercise. But in case you want to ga
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License
-Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+Copyright (c) 2023 Crave Infotech or an affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
