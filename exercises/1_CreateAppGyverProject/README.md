@@ -146,10 +146,10 @@ Now, your application will be connected to Document Management System and SAP Pr
 ![](images/41.png)
 
 7. As the <b>BTP destination name</b>, select <b>AppGyver_SPA</b>.<br><br>
-![](images/Destination.png)
+![](images/122.png)
 
-8.  Under <b> Data resource name</b>, a name can be given to this data connection, like "<i>SendtoSPA</i>".<br><br>
-![](images/43.png)
+8.  Under <b> Data entity name</b>, a name can be given to this data connection, like "<i>SendtoSPA</i>".<br><br>
+![](images/123.png)
 
 9. Under <b>Resource schema</b>, click on <b>+ ADD NEW</b> to create a schema. Name the new schema to "<i>filename</i>" and select the <b>Field type</b> as <b>Text</b>.
 Choose <b>ADD.</b>
