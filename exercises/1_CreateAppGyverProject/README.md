@@ -240,7 +240,7 @@ Choose <b>ADD.</b>
 ![](images/110.png)
 
 <br><br>
-If this <b> Error </b> occurs then give different <b>filename<b/>, and repeate above step. Same filename may used by another user. <br><br>
+If this below <b> Error </b> occurs then give different <b>filename<b/>, and repeate above step. Same filename may used by another user. <br><br>
 ![](images/121.png)  
 
 
