@@ -233,7 +233,7 @@ Choose <b>ADD.</b>
 
 ![](images/108.png)
 
-24.  Click on <b> RUN TEST </b> and Large response should appear, as shown in below image. <br><br>
+24.  Click on <b> RUN TEST </b> and Large response should appear, as shown in below image of Step 25. <br><br>
 ![](images/109.png)
 
 25.  Click on <b> SET SCHEMA FROM RESPONSE </b> and click <b>SAVE DATA ENTITY </b> <br><br>
